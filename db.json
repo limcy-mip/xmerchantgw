@@ -7,6 +7,7 @@
   
   "history": {
     "hasmore" : false,
-	"records" : ["{"customername" : "Adit", "transactionAmount" : 100000.0, "timestamp" : "2020-05-31 11:00:00"}", "{"customername" : "Brigitta", "transactionAmount" : 8700.0, "timestamp" : "2020-04-31 10:25:17"}"]
+	"records" : [{"customername" : "Adit", "transactionAmount" : 100000.0, "timestamp" : "2020-05-31 11:00:00"}, 
+				 {"customername" : "Brigitta", "transactionAmount" : 8700.0, "timestamp" : "2020-04-31 10:25:17"}]
   }
 }
